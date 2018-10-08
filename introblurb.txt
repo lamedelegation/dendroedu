@@ -1,3 +1,22 @@
-Henri Grissino-Mayer's web site, formerly at <http://web.utk.edu/~grissino/>, used to be a convenient place to which we could direct anyone asking for background information about dendrochronology (particularly for those of us too lazy to assemble our own web content). However perhaps its demise is an opportunity for a fresh start in providing dendrochronological web resources, even if the University of Tennessee restores it in some form, or Henri rebuilds it elsewhere.
+Henri Grissino-Mayer's web site, formerly at <http://web.utk.edu/~grissino/>,
+used to be a convenient place to which we could direct anyone asking for
+background information about dendrochronology (particularly for those of us too
+lazy to assemble our own web content). However its demise is an opportunity for
+a fresh start in providing dendrochronological web resources, even if the
+University of Tennessee restores it in some form, or Henri rebuilds it
+elsewhere.
 
-Ideally, this resource would not be dependent on any one individual or organization, and would be a stable long-term source of information about dendrochronology. It wouldn't be a trivial undertaking, requiring the work of a broad community of content editors as well as web site builders and system administrators (and almost certainly some source of continuing funding, even if it was run by volunteers). So I'm sending an early draft proposal to discover if there would be any community interest in starting such a project.
+Ideally, this resource would not be dependent on any one individual or
+institution, and would be a stable long-term source of information about
+dendrochronology for a general Internet-wide audience. It wouldn't be a trivial
+undertaking, requiring the work of a broad community of content editors as well
+as web site builders and system administrators (and almost certainly some source
+of continuing funding, even if it was run by volunteers). So I'm sending an
+early draft proposal to discover if there would be any community interest in
+starting such a project.
+
+The proposal is deliberately vague about the concrete technical details: the
+first priority would be finding enough people sharing a consensus about the
+content to be provided an the editorial workflow needed to publish it. But in
+practice nothing elaborate would be needed, just one of the common content
+management systems like Wordpress or Drupal, and some CDN services.
