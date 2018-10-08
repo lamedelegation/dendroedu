@@ -17,6 +17,6 @@ starting such a project.
 
 The proposal is deliberately vague about the concrete technical details: the
 first priority would be finding enough people sharing a consensus about the
-content to be provided an the editorial workflow needed to publish it. But in
+content to be provided and the editorial workflow needed to publish it. But in
 practice nothing elaborate would be needed, just one of the common content
 management systems like Wordpress or Drupal, and some CDN services.
